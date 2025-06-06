@@ -212,9 +212,18 @@ span {
 }
 
 .hover {
-  position: absolute;
-  background-color: red;
+  display: none;
+  z-index: 1;
+  position: fixed;
+  background-color: var(--blue);
+  color: #fff;
+  font-size: 1vw;
+  font-weight: 500;
+  padding: 0.5vh 0.5vw;
+  border-radius: 7px;
   width:max-content;
+  margin: 3vh -7vw;
+  filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.3));
 }
 
 @media screen and (max-width: 768px) {
