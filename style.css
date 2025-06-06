@@ -51,6 +51,7 @@ body {
     font-size: 1.6vw;
     font-weight: 800;
     color: #fff;
+    text-decoration: none;
 
     &:hover {
       transform: scale(1.029);
