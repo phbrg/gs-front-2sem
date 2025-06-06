@@ -51,6 +51,7 @@ body {
     font-size: 1.6vw;
     font-weight: 800;
     color: #fff;
+    text-decoration: none;
 
     &:hover {
       transform: scale(1.029);
@@ -208,6 +209,12 @@ span {
 
 .reverse {
   flex-direction: row-reverse;
+}
+
+.hover {
+  position: absolute;
+  background-color: red;
+  width:max-content;
 }
 
 @media screen and (max-width: 768px) {
