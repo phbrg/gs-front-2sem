@@ -6,7 +6,7 @@ Mapeia é uma plataforma digital colaborativa desenvolvida para ajudar no combat
 ## Links do projeto
 [Deploy](https://gs-front-2sem.vercel.app/)
 
-[Github](https://github.com/phbrg/gs-web-2sem)
+[Github](https://github.com/phbrg/gs-front-2sem)
 
 ## Integrantes
 - Pedro Henrique Batista Bergamin, 559443
